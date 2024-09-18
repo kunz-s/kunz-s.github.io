@@ -1,5 +1,5 @@
 ---
-title: "Simon Kunz
+title: Simon Kunz
 about:
   id: template-area
   template: jolla
